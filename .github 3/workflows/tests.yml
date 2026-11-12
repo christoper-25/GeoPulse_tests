@@ -4,7 +4,6 @@ name: Tests
 # on GitHub (green check / red X on commits and PRs, and in the Actions tab).
 on:
   push:
-    branches: [main, master]
   pull_request:
   workflow_dispatch:
 
